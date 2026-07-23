@@ -1,31 +1,31 @@
 <h1 align="center">
-Maria Laura Morales Villagra
+  Maria Laura Morales Villagra
 </h1>
 
 <h3 align="center">
-Frontend Developer • UI Engineer • UX-Oriented Development
+  Frontend Developer • UI Engineer • UX-Oriented Development
 </h3>
 
 <p align="center">
-I build modern, responsive and user-centered web applications by combining software development with UI/UX design.
+  I build modern, responsive and user-centered web applications by combining software development with UI/UX design.
 </p>
 
 <p align="center">
 
-<a href="https://linkedin.com/in/TU-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/maria-laura-morales-6736a12ab">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://github.com/TU-USUARIO">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/mariamoralesv">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://TU-PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<a href="">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
-<a href="mailto:TUEMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
@@ -71,33 +71,25 @@ My biggest strength is combining **software development** with **graphic design 
 <h3>Frontend</h3>
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,astro,ts,js,html,css,tailwind"/>
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,ts,js,html,css,tailwind"/>
 </p>
 
 <h3>Backend</h3>
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,php"/>
-
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,php"/>
 </p>
 
 <h3>Database</h3>
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/>
-
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/>
 </p>
 
 <h3>Tools</h3>
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ai,ps"/>
 </p>
 
 ---
@@ -181,31 +173,22 @@ Performance Optimization
 # GitHub Stats
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&hide_border=true"/>
 </p>
 
 ---
 
 <h2 align="center">
-
-Open to Frontend Developer opportunities
-
+  Open to Frontend Developer opportunities
 </h2>
 
 <p align="center">
-
-I enjoy building interfaces that are clean, performant and delightful to use.
-
-Let's build something amazing together.
-
+  I enjoy building interfaces that are clean, performant and delightful to use.
+  Let's build something amazing together.
 </p>
